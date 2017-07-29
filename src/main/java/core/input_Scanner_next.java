@@ -1,0 +1,1 @@
+System.out.print("Enter your full name: ");String first_name = s.next();String last_name = s.next();System.out.println("Your full name is: " + first_name + " " + last_name);
